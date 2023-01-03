@@ -1,0 +1,1 @@
+# This is a project for the waste management course. This aims to be a landing page with information on how to make a simple home garden.
