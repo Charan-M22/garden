@@ -1,0 +1,22 @@
+{
+  "name": "garden",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charan-M22/garden.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charan-M22/garden/issues"
+  },
+  "homepage": "https://github.com/Charan-M22/garden#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
