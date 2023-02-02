@@ -5,20 +5,3 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
-
-.slogan {
-    height: 2em;
-    text-align: center;
-    color: #719e3e;
-    background-image: -webkit-radial-gradient(circle, #719e3e 1%, #0aa631 43%, #233b29 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    text-fill-color: transparent;
-    -webkit-text-fill-color: transparent;
-
-}
-
-.navbar {
-    color: #2D9C21;
-    margin: 0;
-}
